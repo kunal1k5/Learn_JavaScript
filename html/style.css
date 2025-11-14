@@ -1,0 +1,41 @@
+button{
+    background-color: black;
+    border-radius: 0%;
+    border-color: brown;
+}
+button:hover{
+    background-color: aqua;
+    border-radius: 0%;
+    
+    
+}
+
+button a{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    
+}
+
+a:hover{
+    background-color: aqua;
+}
+
+p{
+    background-color: blueviolet;
+}
+
+p:hover{
+    color: white;
+    font-size: large;
+}
+
+ol :nth-child(2n+1){
+    background-color: yellow;
+}
+
+ol :nth-child(2n+2){
+    background-color: aquamarine;
+}
+
+

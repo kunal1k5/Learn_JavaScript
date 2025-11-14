@@ -1,0 +1,164 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+.body {
+    display: block;
+    background-color: #fff;
+    color: #2c2c2c;
+    
+}
+
+#nav { 
+    
+  
+}
+
+.bar {
+    display: flex;
+    padding: 5px;
+}
+
+.bar .logo {
+    height: 42px;
+    width: 70px;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+
+.start_nav {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+.start_nav a {
+    display: inline-block;
+    color: #2c2c2c;
+    text-decoration: none;
+    padding: 15px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.second_nav a {
+    display: inline-block;
+    color: #2c2c2c;
+    text-decoration: none;
+    
+}
+
+.second_nav {
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.sign {
+    margin-top: 10px;
+    margin-left: 350px;
+    
+}
+
+.sbtn {
+    padding: 8px 15px 8px 15px;
+    border-radius: 25px 25px 25px 25px;
+    border-color: #C6C6C6;
+    background-color: white;
+    font-size: 15px;
+
+}
+
+
+.page1 {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.line1 {
+    position: absolute;
+    top: 100px;
+    left: 300px;
+    font-size: 20px;
+}
+
+.line2 {
+    position: absolute;
+    top: 160px;
+    left: 380px;
+    font-size: 18px;
+}
+
+.btn {
+    position: absolute;
+    top: 210px;
+    left: 500px;
+    
+}
+
+.btn1{
+    
+    padding: 15px 30px 15px 30px;
+    border-radius: 25px 25px 25px 25px;
+    font-size: 20px;
+    border: none;
+    background-color: rgb(39, 77, 234);
+    color: #fff;
+}
+
+.middle {
+    display: flex;
+    
+}
+
+.middle1 {
+    position: absolute;
+    background-color: #5eaaf7;
+    top: 350px;
+    padding-bottom: 50px;
+    left: 50px;
+    border-radius: 20px 20px 20px 20px;
+    width: 60%;
+    height: 450px;
+}
+
+.pic1 {
+    display: flex;
+}
+
+.para{
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    
+}
+
+.p{
+    float: inline-start;
+
+}
+
+.p1 {
+    margin-top: 50px;
+}
+
+.igm1 {
+    margin-top: 100px;
+}
+
+.middle2 {
+
+    background-color: #ed4a89;
+    border-radius: 25px 25px 25px 25px;
+    
+
+}
+@media screen {
+    
+}

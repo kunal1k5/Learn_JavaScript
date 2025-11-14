@@ -1,0 +1,144 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr); /* Creates 8 columns, each taking equal fractional space */
+  grid-template-rows: repeat(8, 1fr);    /* Creates 8 rows, each taking equal fractional space */
+  width: 400px; /* Example: Set a fixed width for the entire grid */
+  height: 400px; /* Example: Set a fixed height for the entire grid */
+  border: 1px solid black; /* Optional: Add a border around the grid */
+}
+
+.grid-item {
+  border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em; /* Example: Adjust font size for cell content */
+  
+}
+
+.grid-item1 {
+  border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em;
+  background-color: black;
+}
+
+.grid-item2 {
+    border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em;
+  background-color: black;
+}
+
+.grid-item3 {
+    border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em; /* Example: Adjust font size for cell content */
+}
+
+.grid-item4 {
+  border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em; /* Example: Adjust font size for cell content */
+}
+.grid-item5 {
+    border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em;
+  background-color: black;
+}
+
+.grid-item6 {
+       border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em;
+  background-color: black;
+}
+
+.grid-item7 {
+    border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em; /* Example: Adjust font size for cell content */
+}
+
+.grid-item8 {
+border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em; /* Example: Adjust font size for cell content */
+}
+
+.grid-item9{
+   border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em;
+  background-color: black;
+}
+
+.grid-item10{
+       border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em;
+  background-color: black;
+}
+
+.grid-item11{
+    border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em; /* Example: Adjust font size for cell content */
+}
+
+.grid-item12{
+    border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em; /* Example: Adjust font size for cell content */
+}
+
+.grid-item13 {
+       border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em;
+  background-color: black;
+}
+
+.grid-item14 {
+       border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em;
+  background-color: black;
+}
+
+.grid-item15 {
+    border: 1px solid lightgray; /* Optional: Add borders to individual cells */
+  display: flex; /* To center content within cells if needed */
+  justify-content: center;
+  align-items: center;
+  font-size: 1em; /* Example: Adjust font size for cell content */
+}
