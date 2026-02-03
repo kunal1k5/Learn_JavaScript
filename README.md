@@ -1,1 +1,1 @@
-# Frontend_Basic_Project
+# Learn_JavaScript
